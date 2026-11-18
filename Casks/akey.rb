@@ -4,8 +4,8 @@
 #   brew tap dosp0911/akey && brew trust dosp0911/akey
 #   brew install dosp0911/akey/akey
 cask "akey" do
-  version "0.3.0"
-  sha256 "8fd33064794d2c08efb9806a1818063527607fc3647de1101fbb498694afb034"
+  version "0.3.1"
+  sha256 "361140457db3220c8622a81dd1da18a7096cc0d052b4510b959ec1495ace0b70"
 
   url "https://github.com/dosp0911/akey/releases/download/v#{version}/akey-macos-universal.tar.gz"
   name "Akey"
